@@ -1,0 +1,17 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:mitt@3": "npm:mitt@3.0.1"
+    },
+    "npm": {
+      "mitt@3.0.1": {
+        "integrity": "sha512-vKivATfr97l2/QBCYAkXYDbrIWPM2IIKEl7YPhjCvKlG3kE2gm+uBo6nEXK3M5/Ffh/FLpKExzOQ3JJoJGFKBw==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {
+    "https://raw.githubusercontent.com/manzt/anywidget/main/packages/anywidget/mod.ts": "27b8aba3f2f2a371dd6f8bb62b2eb9d46d60c17007a32818f576ee9d0d70d9a7"
+  }
+}
